@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://startup-agency-modern.vercel.app',
+  siteUrl: 'sushantadhikari.netlify.app',
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {
